@@ -1,2 +1,4 @@
 # Pong-game
-A simple pong game written in python with turtle graphics
+A pong game written in python
+## Requirements
+turtle graphics
